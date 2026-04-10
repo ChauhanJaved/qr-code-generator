@@ -1,5 +1,5 @@
 # Qrify - Advanced QR Code Generator
-
+[https://www.qr.frameworkteam.com/](https://www.qr.frameworkteam.com/)
 Qrify is a robust, full-stack web application designed for generating, customizing, and managing dynamic QR codes. Features include customizable styles (colors, eye shapes, embedded logos) and user management for saving and tracking QR code history.
 
 ## Tech Stack
